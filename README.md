@@ -1,2 +1,1 @@
-# use-case-library
-HuBMAP Use Case Library. 
+# HuBMAP Use Case Library
