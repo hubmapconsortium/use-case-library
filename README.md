@@ -9,4 +9,16 @@ As a HuBMAP user or contributor, feel free to submit any use cases by submitting
 
 For developers, if there is an issue that will address a certain use case (even if it exists in a separate repo), please reference to the relevant use case when possible. This will help update the completion status as use cases become resolved. 
 
+# Use Case Tags
+## Objectives
+
+## Personas
+Persona description are contained in the wiki. Current HuBMAP personas are:
+* Experimental Biologist
+* Computational Biologist
+* Clinician
+* Data Contributor
+* Educator
+* Student
+
 # Relevant Links
