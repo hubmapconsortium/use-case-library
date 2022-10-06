@@ -13,13 +13,13 @@ For developers, if there is an issue that will address a certain use case (even 
 
 # Use Case Tags
 ## Objectives
-General HuBMAP objectives related to its data are:
+The tags are green (#0E8A16). General HuBMAP objectives related to its data are:
 * Explore HuBMAP Data (i.e. browsing data, downloading files) 
 * Visualize Data (i.e. Vitessce, CCF tools, Azimuth)
 * Contribute Data (i.e. TMCs)
 
 ## Personas
-Persona description are contained in the wiki. Current HuBMAP personas are:
+Persona description are contained in the wiki. The tags are red (#B60205). Current HuBMAP personas are:
 * [Experimental Biologist](https://github.com/hubmapconsortium/use-case-library/wiki/Personas#experimental-biologist)
 * [Computational Biologist](https://github.com/hubmapconsortium/use-case-library/wiki/Personas#computational-biologist)
 * [Clinician](https://github.com/hubmapconsortium/use-case-library/wiki/Personas#clinician)
@@ -28,7 +28,7 @@ Persona description are contained in the wiki. Current HuBMAP personas are:
 * [Student](https://github.com/hubmapconsortium/use-case-library/wiki/Personas#student)
 
 ## Other Tags
-Other tags exist to help categorize the use cases by certain project topics (i.e. cell type, workspaces, etc.). 
+These tags are blue (#1D76DB). Other tags exist to help categorize the use cases by certain project topics (i.e. cell type, workspaces, etc.). 
 * Cell Type
 * Workspaces
 
