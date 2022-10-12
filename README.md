@@ -7,6 +7,8 @@ Use cases are filed as github issues. They are categorized using pre-defined tag
 # How to Contribute
 As a HuBMAP user or contributor, feel free to submit any use cases by submitting them as github issues in this repo. To submit an issue, follow this [github documentation](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue). 
 
+Before submitting a use case, check through the issues (easiest to filter through the tags) if the use cases has been filed previously. If not sure, file the use case and someone will check. 
+
 When submitting the issue, assign the relevant, pre-defined tags that categorize them under a general HuBMAP objective, relevant personas and current status. If you are unsure about the tag(s), assign the ones you believe are relevant and the manager of this repo will check. 
 
 For developers, if there is an issue that will address a certain use case (even if it exists in a separate repo), please tag the relevant use case when possible. This will help update the completion status as use cases become resolved. 
